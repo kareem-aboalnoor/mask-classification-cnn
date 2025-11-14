@@ -25,7 +25,7 @@ The dataset contains two categories:
 - `with_mask`
 - `without_mask`
 
-📌 **Dataset Link:** *[Add your dataset link here]*
+📌 **Dataset Link:** https://drive.google.com/file/d/1st7sZd2RmU5q6AZwg-lnlUrJArwdNRPb/view?usp=sharing
 
-Make sure your dataset folder is structured like this:
+
 
